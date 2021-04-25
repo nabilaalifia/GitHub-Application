@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="user_name">User Name</string>
+    <string name="menu_profile">profile</string>
+    <string name="user_image_profile">profile image user</string>
+    <string name="search_hint">find user</string>
+    <string name="usergithub_name">UserGithub Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repositories">Repository</string>
+    <string name="language_settings">Language Setting</string>
+    <string name="language">Languange</string>
+    <string name="daily_reminder">Daily Reminder</string>
+
+</resources>

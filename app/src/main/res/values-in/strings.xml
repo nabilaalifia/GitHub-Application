@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="user_name">Nama pengguna</string>
+    <string name="menu_profile">profil</string>
+    <string name="user_image_profile">foto profil pengguna</string>
+    <string name="search_hint">temukan pengguna</string>
+    <string name="usergithub_name">Nama Pengguna Github </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="followers">Diikuti</string>
+    <string name="following">Mengikuti</string>
+    <string name="repositories">Repositori</string>
+    <string name="language_settings">Atur Bahasa</string>
+    <string name="language">Bahasa</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+
+</resources>
